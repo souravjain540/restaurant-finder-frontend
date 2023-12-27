@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const getAuthToken = () => {
   // Replace this with your logic to obtain the token
-  return 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjbHFmY3Fya3IwMDAwd2p5bmFvMzBlNmNmIiwidXNlcm5hbWUiOiJhZG1pbiIsImlhdCI6MTcwMzE3ODk4MywiZXhwIjoxNzAzMzUxNzgzfQ.FrGfhLZZMcksa7KYHFxn9RAiJ_IUCiGpremHXEi3_9U';
+  return 'ADD_YOUR_TOKEN_HERE';
 };
 
 const api = axios.create({
